@@ -1,7 +1,7 @@
 # **Web Deployment Demo**
 _keyword: docker, django, model-view-template (mvt), port mapping_ 
 
-This demo is going to build a docker container with django service as an application host server. (Web server development with **nginx** will be deployed and extended in the future.)
+This demo is going to build a docker container with django service as an application host server. (Web server development with **nginx and docker-compose** will be deployed and extended in the future.)
 
 ## **Clone this repo** ##
 
